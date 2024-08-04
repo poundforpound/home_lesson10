@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './components/expenses';
-import MyExpenses from './components/expenses';
+import MyExpenses from './components/Myexpenses';
 
 function App() {
   return (
